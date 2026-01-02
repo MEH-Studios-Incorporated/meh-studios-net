@@ -41,7 +41,7 @@ export default function Home() {
       </main>
       <footer className="row-start-4 flex gap-[24px] flex-wrap items-center justify-center">
         <p className="font-mono text-[10px]/5 text-center opacity-50 max-w-[600px]">
-          © Copyright 2025, All rights reserved. MEH Studios, MEH Studios Logo, MEH Studios Research Facility are among our registered and unregistered trademarks in the U.S. and other countries. 
+          © Copyright 2026, All rights reserved. MEH Studios, MEH Studios Logo, MEH Studios Research Facility are among our registered and unregistered trademarks in the U.S. and other countries. 
         </p>
       </footer>
     </div>
